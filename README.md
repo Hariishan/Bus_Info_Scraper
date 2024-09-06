@@ -1,6 +1,6 @@
-# Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
+# Bus Info Scraper with Selenium & Dynamic Filtering using Streamlit
 
-This project is a comprehensive tool designed to scrape bus route details from the Redbus website, store the data in a MySQL database, and provide an interactive dashboard for dynamic filtering and visualization. The project supports scraping bus data for 10 different states in India, making it a versatile solution for analyzing bus routes, fares, seat availability, and other relevant details.
+This project is a comprehensive tool designed to scrape bus route details from the Bus Info Scraper website, store the data in a MySQL database, and provide an interactive dashboard for dynamic filtering and visualization. The project supports scraping bus data for 10 different states in India, making it a versatile solution for analyzing bus routes, fares, seat availability, and other relevant details.
 
 ## Table of Contents
 
